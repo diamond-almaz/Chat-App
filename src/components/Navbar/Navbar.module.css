@@ -1,0 +1,29 @@
+.nav {
+    grid-area: n;
+    background-color: #5f2323;
+    padding: 20px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: gold;
+}
+
+.userInfo {
+    padding: 5px;
+    margin: 0 5px 5px 0;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+
+.userInfo span {
+    color: white;
+}
+
+.userInfo a {
+    color: white
+}
